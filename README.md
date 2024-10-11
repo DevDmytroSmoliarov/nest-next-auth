@@ -1,17 +1,19 @@
-Nest Next Auth
+## Nest Next Auth
 
-How to Run the Project Locally
+## How to Run the Project Locally
 
-Backend Setup
+## Backend Setup
 
-npm install
-npm run start
+## npm install
 
-port: 8000.
+## npm run start
 
-Frontend Setup
+## port: 8000.
 
-npm install
-npm run start:dev
+## Frontend Setup
 
-port: 3000.
+## npm install
+
+## npm run start:dev
+
+## port: 3000.
