@@ -4,16 +4,16 @@
 
 ## Backend Setup
 
-## npm install
+# npm install
 
-## npm run start
+# npm run start
 
-## port: 8000.
+# port: 8000.
 
 ## Frontend Setup
 
-## npm install
+# npm install
 
-## npm run start:dev
+# npm run start:dev
 
-## port: 3000.
+# port: 3000.
